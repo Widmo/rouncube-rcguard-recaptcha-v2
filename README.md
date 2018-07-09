@@ -4,5 +4,4 @@ This is https://github.com/dennylin93/rcguard plugin, modified for working with 
 
 If You like my job, donate! :)
 
-[![Donate with PayPal](https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png)]
-(https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CCKU7NXG9D7YE)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CCKU7NXG9D7YE)
